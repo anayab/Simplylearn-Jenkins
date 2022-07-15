@@ -1,5 +1,6 @@
 # Simplylearn-Jenkins
 How to install Jenkins:
+```
 Step 1 — Installing Jenkins
 The version of Jenkins included with the default Ubuntu packages is often behind the latest available version from the project itself. To ensure you have the latest fixes and features, use the project-maintained packages to install Jenkins.
 
@@ -69,3 +70,7 @@ With Jenkins installed and a firewall configured, you have completed the install
 
 Step 4 — Setting Up Jenkins
 To set up your installation, visit Jenkins on its default port, 8080, using your server domain name or IP address: http://your_server_ip_or_domain:8080
+```
+
+## REFERENCES:
+https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-22-04
